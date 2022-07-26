@@ -37,7 +37,7 @@ ctrl+o
 ```
 source ~/.bashrc
 ```
-* Finally, open the robot arm using the command
+* open the robot arm using the command :
 ```
 roslaunch robot_arm_pkg check_motors.launch
 ```
