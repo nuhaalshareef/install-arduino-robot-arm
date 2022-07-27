@@ -33,7 +33,7 @@ sudo nano ~/.bashrc
 source /home/nuha/catkin_ws/devel/setup.bash
 ```
 Then
-ctrl+o
+( ctrl+o )then enter then ( ctrl+x )
 ```
 source ~/.bashrc
 ```
